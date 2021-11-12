@@ -19,6 +19,7 @@ module.exports = {
   ],
   rules: {
     'no-console': 'off',
-    semi: [2, 'always']
+    semi: [2, 'always'],
+    'no-trailing-spaces': 1
   }
 };
